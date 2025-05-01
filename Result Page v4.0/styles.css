@@ -1,0 +1,238 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    font-family: 'Hanken Grotesk', sans-serif;
+}
+
+#div-main {
+    width: 736px;
+    height: 514px;
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 10px 30px 40px 3px hsl(221, 100%, 96%);
+}
+
+#div-col1 {
+    background: linear-gradient(180deg, hsl(252, 100%, 67%) 0%, hsl(241, 81%, 54%) 80%);
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    padding: 40px 60px 40px 60px;
+}
+
+#div-col2 {
+    color: hsl(224, 30%, 27%);
+    padding: 40px;
+    background-color: white;
+    border-radius: 0 30px 30px 0;
+}
+
+@media (max-width: 768px) {
+    html {
+        overflow-x: hidden;
+    }
+
+    body {
+        height: auto;
+        padding: 0;
+        margin: 0;
+    }
+
+    #div-main {
+        width: 100vw; /* Full width on mobile */
+        height: auto; /* Allow height to grow based on content */
+        display: flex; /* Keep flex display */
+        flex-direction: column; /* Stack children vertically */
+        box-shadow: none;
+        padding: 0;
+        overflow-x: hidden;
+        border-radius: 0px;
+    }
+
+    #div-col1 {
+        border-radius: 0 0 30px 30px;
+        padding: 30px 50px 40px 50px;
+    }
+
+    #div-col2 {
+        border-radius: 0;
+        padding: 30px;
+    }
+
+    #div-col1,
+    #div-col2 {
+        height: auto;
+        margin: 0;
+        width: 100%;
+    }
+}
+
+#div-circle {
+    border-radius: 50%;
+    background: linear-gradient(180deg, hsla(256, 72%, 46%, 1) 0%, hsla(241, 72%, 46%, 0) 100%);
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#div-evaluation {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#span-col1-title {
+    font-size: 22px;
+    font-weight: 500;
+    opacity: 0.6;
+    margin-bottom: 40px;
+}
+
+#span-col2-title {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+#span-col1-score {
+    font-size: 72px;
+    font-weight: 800;
+    margin-bottom: -15px;
+}
+
+#span-col1-score-marker {
+    font-size: 18px;
+    font-weight: 500;
+    opacity: 0.35;
+}
+
+#span-col1-evaluation {
+    font-size: 32px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+#span-col1-explanation {
+    font-size: 18px;
+    font-weight: 500;
+    opacity: 0.65;
+    text-align: center;
+    line-height: 1.25;
+}
+
+#reaction,
+#memory,
+#verbal,
+#visual {
+    height: 56px;
+    border-radius: 8px;
+    padding: 0 18px 0 18px;
+    width: 100%;
+}
+
+.div-logo-img {
+    display: flex;
+    align-items: center;
+}
+
+#reaction {
+    background-color: hsla(0, 100%, 67%, 0.1);
+}
+
+#memory {
+    background-color: hsla(39, 100%, 56%, 0.1);
+}
+
+#verbal {
+    background-color: hsla(166, 100%, 37%, 0.1);
+}
+
+#visual {
+    background-color: hsla(234, 85%, 45%, 0.1);
+}
+
+button {
+    background-color: hsl(224, 30%, 27%);
+    border-radius: 28px;
+    height: 56px;
+    border: none;
+    font-size: 13pt;
+    color: white;
+    transition: background-color 1s ease;
+    margin-top: 40px;
+}
+
+button:hover {
+    background: linear-gradient(180deg, hsl(252, 100%, 67%) 0%, hsl(241, 81%, 54%) 80%);
+}
+
+#result-labels {
+    height: 272px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.label {
+    display: flex;
+    align-items: center;
+}
+
+img {
+    margin-right: 10px;
+}
+
+#text-reaction,
+#text-memory,
+#text-verbal,
+#text-visual {
+    font-weight: 500;
+    font-size: 18px;
+    
+}
+
+#text-reaction {
+    color: hsl(0, 100%, 67%)
+}
+
+#text-memory {
+    color: hsl(39, 100%, 56%)
+}
+
+#text-verbal {
+    color: hsl(166, 100%, 37%)
+}
+
+#text-visual {
+    color: hsl(234, 85%, 45%)
+}
+
+#div-reaction-score,
+#div-memory-score,
+#div-verbal-score,
+#div-visual-score {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0;
+}
+
+.score-numbers {
+    font-weight: 700;
+}
+
+.score-numbers-gray {
+    opacity: 0.5;
+}
