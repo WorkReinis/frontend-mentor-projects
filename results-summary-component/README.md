@@ -2,7 +2,7 @@
 
 ## 🎯 Results Summary Component
 
-This project is a solution to [this challenge](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV) on Frontend Mentor.  
+This is a solution to a [challenge](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV) on Frontend Mentor.  
 A project focused on building a responsive, visually appealing, and user-friendly interface using HTML and CSS.
 
 
