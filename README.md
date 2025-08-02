@@ -1,6 +1,6 @@
 ## 🌐 Frontend Mentor Projects
 
-This repository contains my solutions to challenges from [Frontend Mentor](https://www.frontendmentor.io/).
+This repository contains my solutions to challenges from [Frontend Mentor](https://www.frontendmentor.io/).  
 I use these projects to practice responsive layouts and front-end development best practices.
 
 ## 🛠️ Tech Stack
@@ -13,9 +13,9 @@ I use these projects to practice responsive layouts and front-end development be
 
 - **Results Summary Component**  
   This project is a solution to the [Results Summary Component challenge](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV).  
-  [Live Demo](https://codepen.io/Work-Reinis/pen/empvNea)
+  [Live Demo](https://codepen.io/Work-Reinis/pen/GgpWWzo)
 
-
+<!-- 
 ## Usage
 
 ```bash
@@ -29,7 +29,7 @@ cd frontend-mentor-projects/results-summary-component
 # Open index.html in your browser
 open index.html
 ```
-
+ -->
 
 ## 📜 License
 
