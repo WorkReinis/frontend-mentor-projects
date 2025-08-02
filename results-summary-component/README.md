@@ -25,9 +25,3 @@ This challenge tested both my patience and attention to detail — but I’m pro
 - How to structure clean, maintainable layouts using Bootstrap’s grid system  
 - The power of media queries in fine-tuning responsiveness  
 - Better use of `flexbox`, custom properties, and efficient selectors  
-
-
-## 🙋 Author
-
-- GitHub: [@WorkReinis](https://github.com/WorkReinis)  
-- Frontend Mentor: [@WorkReinis](https://www.frontendmentor.io/profile/WorkReinis)
