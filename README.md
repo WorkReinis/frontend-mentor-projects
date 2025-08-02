@@ -13,8 +13,8 @@ I use these projects to practice responsive layouts and front-end development be
 
 - **Results Summary Component**  
   A responsive card interface for displaying performance metrics.  
-  → [Live Demo](https://codepen.io/Work-Reinis/pen/GgpWWzo)  
-  → [Challenge](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
+  [Live Demo](https://codepen.io/Work-Reinis/pen/GgpWWzo)  
+  [Challenge](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
 
 <!-- 
 ## Usage

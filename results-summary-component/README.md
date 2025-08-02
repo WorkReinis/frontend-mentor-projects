@@ -2,19 +2,8 @@
 
 ## 🎯 Results Summary Component
 
-This project is a solution to the [Results Summary Component challenge](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV) on Frontend Mentor. A project focused on building a responsive, visually appealing, and user-friendly interface using HTML and CSS.
-
-
-## 🔗 Live & Source Links
-
-- **Demo Site**: [GitHub Pages](https://workreinis.github.io/Results-Summary-Component/)  
-
-
-## 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&logoWidth=30)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&logoWidth=30)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+This project is a solution to [this challenge](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV) on Frontend Mentor.  
+A project focused on building a responsive, visually appealing, and user-friendly interface using HTML and CSS.
 
 
 ## 🧩 The Challenge
