@@ -12,8 +12,9 @@ I use these projects to practice responsive layouts and front-end development be
 ## 🚀 Projects Included
 
 - **Results Summary Component**  
-  This project is a solution to the [Results Summary Component challenge](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV).  
-  [Live Demo](https://codepen.io/Work-Reinis/pen/GgpWWzo)
+  A responsive card interface for displaying performance metrics.  
+  → [Live Demo](https://codepen.io/Work-Reinis/pen/GgpWWzo)  
+  → [Challenge](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
 
 <!-- 
 ## Usage
